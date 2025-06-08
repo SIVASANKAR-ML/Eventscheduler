@@ -4,7 +4,6 @@ This is a full-stack event scheduler application built as a coding assignment fo
 
 ## Table of Contents
 
-- [Live Demo & Screenshots](#live-demo--screenshots)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
@@ -22,13 +21,6 @@ This is a full-stack event scheduler application built as a coding assignment fo
 
 **Live Demo:** [Link to your deployed application]
 
-### Screenshots
-
-**Important:** Replace these placeholders with actual screenshots of your application. This is the fastest way for a reviewer to see your work.
-
-| Event List Page                                       | Create Event Modal                               | Event Detail Page                                     |
-| ----------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------- |
-| ![Event List Page](link-to-your-list-page-screenshot.png) | ![Create Event Modal](link-to-your-form-screenshot.png) | ![Event Detail Page](link-to-your-detail-page-screenshot.png) |
 
 ## Features
 
