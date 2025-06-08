@@ -14,12 +14,6 @@ This is a full-stack event scheduler application built as a coding assignment fo
 - [Available Scripts](#available-scripts)
 - [Folder Structure](#folder-structure)
 
-## Live Demo & Screenshots
-
-**(Optional but Highly Recommended)**
-*A live demo link hosted on Vercel (for the frontend) and a service like Render (for the backend) would be very impressive.*
-
-**Live Demo:** [Link to your deployed application]
 
 
 ## Features
